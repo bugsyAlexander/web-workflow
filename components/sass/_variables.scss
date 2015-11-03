@@ -1,0 +1,21 @@
+// color palette
+$color-1 : #31313b;  // Charcoal 1
+$color-2 : #2d2e34;  // Charcoal 2
+$color-3 : #b3b3b3;  // Charcoal 3
+
+
+$font-primary: 'Quattrocento Sans', sans-serif;
+$font-secondary: 'Quattrocento', serif;
+
+// z-index
+$below-content: 1;
+$content: 2;
+$above-content: 3;
+
+// Breakpoints
+$xS   : 20rem;       // 320px - iphone 3
+$S    : 30rem;       // 480px
+$i5   : 40rem;       // 640px - iphone 5
+$M    : 48rem;       // 768px - ipad mini
+$L    : 73.125rem;   // 1170px
+$maxL :  $L - 0.0625rem;
